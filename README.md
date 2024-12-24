@@ -1,8 +1,6 @@
-# 👋 Olá, eu sou Tailison! 
-<br>
-🎯 Desenvolvedor(a) Full-Stack com foco em React e NodeJs.
-📚 Estudante de Análise e Desenvolvimento de Sistemas.
-<br>
+# 👋 Olá, eu sou Tailison! <br>
+🎯 Desenvolvedor(a) Full-Stack com foco em React e NodeJs. <br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas. <br>
 
 #  Buscando evoluir em aspectos como:
 - **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
