@@ -2,6 +2,7 @@
 <br>
 🎯 Desenvolvedor(a) Full-Stack com foco em React e NodeJs. 
 <br>
+
 #  Buscando evoluir em aspectos como:
 - **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
 - **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo. Ou app's quando necessários.
