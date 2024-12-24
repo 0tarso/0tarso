@@ -2,13 +2,15 @@
 🎯 Desenvolvedor(a) Full-Stack com foco em React e NodeJs. <br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas. <br>
 
-#  Buscando evoluir em aspectos como:
+##  Buscando evoluir em aspectos como:
 - **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
 - **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo. Ou app's quando necessários.
 - **🔥 Otimização de código**: Buscando melhor desempenho e boas práticas.
+- **📚 Detalhes**: Sempre em constante busca de novos detalhes, até mesmo naquilo que já 'ousamos' dizer que conhecemos.
+<br>
 
 
-## 🌐 Socials:
+## 🌐 Vamos nos conectar?:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0tarso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tailison-ramos-22845432a) 
 
 ## 💻 Dev Stack:
