@@ -15,11 +15,11 @@
 
 ## 💻 Dev Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
-:
+<hr>
 ![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres,firebase)
-:
+<hr>
 ![My Skills](https://skillicons.dev/icons?i=ae,ps,ai,figma)
-:
+<hr>
 ![My Skills](https://skillicons.dev/icons?i=git,github)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0tarso&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
