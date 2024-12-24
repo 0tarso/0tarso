@@ -1,4 +1,4 @@
-#👋 Olá, eu sou Tailison!
+# 👋 Olá, eu sou Tailison!
 🎯 Desenvolvedor(a) Full-Stack com foco em React e NodeJs.
 🌱 Buscando evoluir em aspectos como.
 
