@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Tailison! <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&size=40&duration=2000&pause=1000&width=550&height=75&lines=Ol%C3%A1%2C+me+chamo+Tailison!)](https://git.io/typing-svg) <br>
 🎯 Desenvolvedor Full-Stack com foco em React e NodeJs. <br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas. <br>
 
@@ -10,8 +10,8 @@
 <br>
 
 
-## 🌐 Vamos nos conectar?
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0tarso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tailison-ramos-22845432a) 
+## 🌐 Vamos nos conectar? <br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&sizeLogo=50)](https://linkedin.com/in/tailison-ramos-22845432a) 
 
 <br>
 
