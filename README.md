@@ -16,11 +16,11 @@
 <br>
 
 ## 💻 Dev Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react)
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,firebase,postgresql,prisma)
 
-![My Skills](https://skillicons.dev/icons?i=ae,ps,ai,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ae,ps,ai,figma)
 
 ![My Skills](https://skillicons.dev/icons?i=git,github) 
 
