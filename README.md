@@ -6,7 +6,7 @@
 - **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
 - **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo. Ou app's quando necessários.
 - **🔥 Otimização de código**: Buscando melhor desempenho e boas práticas.
-- **📚 Detalhes**: Sempre em constante busca de novos detalhes, até mesmo naquilo que já 'ousamos' dizer que conhecemos.
+
 <br>
 
 
