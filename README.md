@@ -4,7 +4,7 @@
 
 ##  Buscando evoluir em aspectos como:
 - **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
-- **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo. Ou app's quando necessários.
+- **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo e aplicativos modernos com UI/UX pensados no usuário.
 - **🔥 Otimização de código**: Buscando melhor desempenho e boas práticas.
 
 <br>
