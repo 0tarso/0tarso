@@ -21,7 +21,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,firebase,postgresql,prisma)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ae,ps,ai,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ae,ps,ai,figma,davinci)
 
 ![My Skills](https://skillicons.dev/icons?i=git,github) 
 
