@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&size=40&duration=2000&pause=1000&width=550&height=75&lines=Ol%C3%A1%2C+me+chamo+Tailison!)](https://git.io/typing-svg) <br>
-🎯 Desenvolvedor Full-Stack com foco em React e NodeJs. <br>
+🎯 Desenvolvedor Full-Stack com foco em React Native e NodeJs. <br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas. <br>
 
-##  Buscando evoluir em aspectos como:
-- **💻 Aplicações Web**: Desenvolvimento full-stack com integrações de APIs.
-- **⚛️ React/native**: Sites que se adaptam a qualquer dispositivo e aplicativos modernos com UI/UX pensados no usuário.
-- **🔥 Otimização de código**: Buscando melhor desempenho e boas práticas.
 
 <br>
 
